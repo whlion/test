@@ -1,4 +1,3 @@
-import scala.util.Try
 object Main {
     def main(args: Array[String]) {
         if (args.size == 0) {
